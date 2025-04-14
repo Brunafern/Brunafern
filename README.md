@@ -1,4 +1,5 @@
 ### Hello how are you? I'm Bruna! 👋 
+
 <h2 align="auto"> About me 👩‍💻 </h2> 
 
 - Studying Análise e Desenvolvimento de Sistemas at IFPB. 
